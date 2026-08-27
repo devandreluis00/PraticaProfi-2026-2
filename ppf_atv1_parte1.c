@@ -9,7 +9,7 @@ int main()
 //    printf("Digite seu nome: ");
 //    scanf("%s",nome);
 //    
-//    printf("Ol·, %s! Seja bem-vindo(a) ‡ disciplina de LÛgica de ProgramaÁ„o.",nome);
+//    printf("Ol√°, %s! Seja bem-vindo(a) √† disciplina de L√≥gica de Programa√ß√£o.",nome);
 
 // Q2
 
@@ -27,7 +27,7 @@ int main()
 //	
 //	soma = (n1+n2);
 //	
-//	printf("A soma È: %.2f", soma);
+//	printf("A soma √©: %.2f", soma);
 
 // Q3
 
@@ -49,10 +49,10 @@ int main()
 //	mult = n1*n2;
 //	divi = n1/n2;
 //	
-//	printf("A soma È: %.2f", soma);
-//	printf("\nA SubtraÁao È: %.2f", subtra);
-//	printf("\nA MultplicaÁao È: %.2f", mult);
-//	printf("\nA Divisao È: %.2f", divi);
+//	printf("A soma √©: %.2f", soma);
+//	printf("\nA Subtra√ßao √©: %.2f", subtra);
+//	printf("\nA Multplica√ßao √©: %.2f", mult);
+//	printf("\nA Divisao √©: %.2f", divi);
 
 	// Q4
 //	float n1,n2,n3;
@@ -69,7 +69,7 @@ int main()
 //	
 //	media = (n1+n2+n3)/3;
 //	
-//	printf("A media È: %.2f", media);
+//	printf("A media √©: %.2f", media);
 
 
 // Q5
@@ -85,7 +85,7 @@ int main()
 //	
 //	area = base * altura;
 //	
-//	printf("A AREA DO TRIANGULO …: %2.f", area);
+//	printf("A AREA DO TRIANGULO √â: %2.f", area);
 
 
 // Q6
@@ -98,7 +98,7 @@ int main()
 //	
 //	area = 3.14159 * (raio*raio);
 //	
-//	printf("A area do circulo È: %f", area);
+//	printf("A area do circulo √©: %f", area);
 
 // Q7
 
@@ -110,7 +110,7 @@ int main()
 //	
 //	faren = (cel*9/5) + 32;
 //	
-//	printf("A temperatura em Fahrenheit È: %2.f", faren);
+//	printf("A temperatura em Fahrenheit √©: %2.f", faren);
 
 // Q8
 
@@ -126,7 +126,7 @@ int main()
 //	
 //	salariobruto = qnthoras * valorhora;
 //	
-//	printf("O salario bruto È: \n%2.f", salariobruto);
+//	printf("O salario bruto √©: \n%2.f", salariobruto);
 
 
 
@@ -139,7 +139,7 @@ int main()
 //	printf("Digite a distancia percorrida: ");
 //	scanf("%f",&distan);
 //	
-//	printf("Digite a quantidade de combustÌvel utilizada: ");
+//	printf("Digite a quantidade de combust√≠vel utilizada: ");
 //	scanf("%f",&litros);
 //	
 //	consumo = distan/litros;
@@ -165,7 +165,7 @@ int main()
 //	
 //	valortotal = qntd*preco;
 //	
-//	printf("O valor total do produto %s, È: %2.f, e com a quantidade: %2.f", nome,valortotal,qntd);
+//	printf("O valor total do produto %s, √©: %2.f, e com a quantidade: %2.f", nome,valortotal,qntd);
 	
 	
 	
